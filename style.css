@@ -1,10 +1,14 @@
 * {
-    font-family: ;
+    font-family: 'Gill Sans';
 }
 
 h1 {
     display: block;
     width: 100%;
     text-align: center;
-    color: cadetblue;
+    color: goldenrod;
+}
+
+p {
+    padding: 2em;
 }
