@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "gulp" : "./node_modules/.bin/gulp"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.3.0",
+    "gulp": "^4.0.2"
+  }
+}

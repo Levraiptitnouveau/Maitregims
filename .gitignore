@@ -1,1 +1,3 @@
-image.psd
+#Attention ne jamais mettre le module dans le git toujours l'insérer dans le git ignore
+node_modules/
+image.psd/
